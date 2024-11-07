@@ -1,0 +1,83 @@
+body { font-size: 16px; }
+.content { padding: 30px 60px; }
+#pos_hide { display: none; }
+.easysite-font-peruse div, .easysite-font-peruse dl, .easysite-font-peruse dt, .easysite-font-peruse dd, .easysite-font-peruse ul, .easysite-font-peruse ol, .easysite-font-peruse-peruse li, .easysite-font-peruse h1, .easysite-font-peruse h2, .easysite-font-peruse h3, .easysite-font-peruse h4, .easysite-font-peruse h5, .easysite-font-peruse h6, .easysite-font-peruse form, .easysite-font-peruse input, .easysite-font-peruse textarea, .easysite-font-peruse p, .easysite-font-peruse th, .easysite-font-peruse td, .easysite-font-peruse button, .easysite-font-peruse span, .easysite-font-peruse label, .easysite-font-peruse a, .easysite-font-peruse em, .easysite-font-peruse i, .easysite-font-peruse strong { font-family: 'microsoft yahei'; }
+.easysite-fn-clear:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0 }
+.easysite-fn-clear { zoom: 1 }
+.easysite-paddingrl { padding-left: 50px; padding-right: 50px; }
+.easysite-font-peruse ol, .easysite-font-peruse ul { list-style: none }
+.easysite-font-peruse em, .easysite-font-peruse i, .easysite-font-peruse strong { font-style: normal; font-weight: normal; }
+.easysite-font-peruse a { text-decoration: underline; -font-size: 18px; font-family: "微软雅黑"; }
+.easysite-font-peruse a:hover { color: #009ee0; }
+
+/* news and talk detail */
+p.position { line-height: 40px; height: 40px; color: #08518b; }
+p.position a { color: #08518b; }
+
+/* bread nav */
+.easysite-bread-nav p { margin: 0; padding: 15px 0; font-size: 14px; color: #595757; }
+.easysite-bread-nav p a { color: #595757; }
+.easysite-paddingrl { padding-left: 50px; padding-right: 50px; }
+.fontSize { text-align: right; margin-bottom: 40px; }
+
+/* news and talk detail */
+.easysite-paddingrl { padding-left: 50px; padding-right: 50px; }
+.easysite-news-title { border-bottom: 2px solid #dcdcdc; text-align: center; margin-bottom: 10px; }
+.easysite-news-title h2 { font-size: 28px; color: #333; text-align: center; line-height: 50px; }
+
+.share_author { height: 45px; line-height: 45px; }
+.easysite-news-content { font-size: 16px; }
+.easysite-news-describe { font-size: 16px;float:left; color: #333; width: 100%; }
+.easysite-news-fontsize { padding: 0 4px; cursor: pointer; }
+.bdsharebuttonbox.bdshare-button-style1-16 { width: 170px; float: right; }
+.bdshare-button-style1-16 a { margin: 0 0 0 10px !important; }
+.easysite-news-text { -height: 500px; width: 100%; margin: 10px 0; }
+.easysite-news-text, .easysite-news-text * { line-height: 26pt; font-family: "宋体" !important; font-size: 18px; color: #333; }
+.easysite-news-text p { margin-bottom: 15px; text-align: justify; }
+.easysite-news-text img { max-width: 1000px; }
+.easysite-news-operation { border-top: 2px solid #eeeeee; padding-top: 10px; }
+.easysite-news-operation .easysite-isprase { float: left; text-align: left; }
+.easysite-isprase .agree-num, .easysite-isprase .noagree-num { float: left; position: relative; padding-left: 30px; line-height: 22px; color: #595757; cursor: pointer; }
+.easysite-isprase .agree-num { margin-right: 10px; }
+.easysite-news-operation .easysite-operation-foot { float: right; text-align: right; }
+.easysite-operation-foot span { float: right; position: relative; color: #595757; cursor: pointer; font-size: 16px; }
+.easysite-operation-foot span:hover { -color: #009ee0; }
+.easysite-related-news { border-top: 8px solid #eeeeee; padding: 26px 40px 0; }
+.easysite-related-news h3 { height: 42px; line-height: 42px; padding-left: 33px; color: #000; font-size: 18px; border-bottom: 2px solid #eeeeee; position: relative; }
+.easysite-related-news h3 i { background: url("../images/news-tubiao.png") no-repeat 0 0; _background: url("../images/news-tubiao-ie.png") no-repeat 0 0; width: 21px; height: 20px; position: absolute; top: 13px; left: 5px; }
+.easysite-related-news ul { padding-top: 10px; padding-bottom: 30px; }
+.easysite-related-news li { height: 30px; line-height: 30px; }
+.easysite-related-news li a { color: #595757; display: inline-block; width: 75%; }
+.easysite-related-news li span { display: inline-block; width: 25%; text-align: right; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+.easysite-related-news li .small-circle { display: inline-block; vertical-align: middle; width: 4px; height: 4px; background-color: #fff; border: 1px solid #595757; border-radius: 20px; margin-right: 5px; _overflow: hidden; }
+.easysite-related-news li:hover a, .easysite-related-news li:hover span { color: #64a8e1; }
+.easysite-related-news li:hover .small-circle { border: 1px solid #64a8e1; }
+.share { float: right; margin-top:-45px; }
+.gwdshare_t.gwds_tools.gwds_common.get-codes-gwdshare a { margin: 10px 7px 0 0 !important; }
+.prev_next_article { overflow: hidden; }
+.prev_next_article li { line-height: 30px; width: 50%; }
+.prev_next_article li.fl { text-align: left; }
+.prev_next_article li.fr { text-align: right; }
+.prev_next_article li a { font-size: 16px; max-width: 470px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; display: inline-block; }
+.prev_next_article li.fl span { float: left; }
+.prev_next_article li.fr span { float: right; }
+.prev_next_article li * { font-size: 16px; color: #333; font-family: "微软雅黑"; }
+.easysite-operation-foot { line-height: 50px; font-size: 16px; }
+.easysite-news-text p strong{font-weight:bold; color:#000;}
+
+/* 表格样式 */
+#easysiteText table { margin: 0 auto; min-width: 80%; }
+#easysiteText table, #easysiteText table tr, #easysiteText table td { border: 2px solid #ccc; }
+#easysiteText table td { padding: 5px; font-size: 18px; }
+#easysiteText table td, #easysiteText table td * { font-size: 18px; color: #333; }
+
+@media only screen and (max-width:1025px) {
+.content {padding: 10px 15px;}
+.easysite-news-text img {width: 100%;}
+.prev_next_article li{width:100%;}
+.share {display: none;}
+.share_author {height: auto;line-height: 30px;}
+.easysite-news-title h2 {font-size: 22px;line-height: 40px;}
+.prev_next_article li *{font-size:14px;}
+.prev_next_article li a {font-size: 14px;}
+｝
